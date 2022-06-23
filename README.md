@@ -3,21 +3,24 @@
 
 Estructura del sistema de archivos multimedia.
 
+
 ## 📁 Estructura
- *IMAGES*
- * GIF
- * ICON
- * JPG
- * PNG
- * SVG
- **AUDIO* 
- * AVI
- * M4V
- * MOV
- * MP3 
- * MP4
- * MPEG
- * MPG
+- IMAGES
+  * GIF
+  * ICON
+  * JPG
+  * PNG
+  * SVG
+- AUDIO
+  * AVI
+  * M4V
+  * MOV
+  * MP3 
+  * MP4
+  * MPEG
+  * MPG
+
+
 
 
 ## Metodo de Descarga / Instalación
