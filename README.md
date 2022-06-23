@@ -10,7 +10,7 @@ Estructura del sistema de archivos multimedia.
  * JPG
  * PNG
  * SVG
- *AUDIO* 
+ **AUDIO* 
  * AVI
  * M4V
  * MOV
